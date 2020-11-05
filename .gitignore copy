@@ -1,0 +1,14 @@
+*.swp
+.DS_Store
+node_modules/
+dist/
+log/
+npm-debug.log*
+yarn.lock
+yarn-debug.log*
+yarn-error.log*
+.vscode
+.idea/
+.history/
+.npm/
+*.pem
